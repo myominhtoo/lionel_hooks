@@ -1,0 +1,19 @@
+{
+  "name": "lionel_hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myominhtoo/lionel_hooks.git"
+  },
+  "author": "lionel_cain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myominhtoo/lionel_hooks/issues"
+  },
+  "homepage": "https://github.com/myominhtoo/lionel_hooks#readme"
+}

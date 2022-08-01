@@ -108,3 +108,17 @@ console.log( some( numbers , num => num % 2 == 0 ) );
 console.log( every( numbers , num => num % 2 != 0 ) );
 
 
+const  { oneWithId , oneWithCustomKey , allWithClassName , allWithCustomKey , $ } = useSelector();
+
+console.log( oneWithId("code") );
+
+console.log( oneWithCustomKey(".name") );
+
+console.log( allWithClassName("name") );
+
+console.log( allWithCustomKey("p") );
+
+console.log( $("#code") )
+
+
+
